@@ -1,0 +1,59 @@
+{
+    "name": "Keggy #1",
+    "description": "A normal Keggy performing his daily duties",
+    "image": "ipfs://QmeugimuVwWUTyKuqfeFs1sjzHxMQwXqZjYBCXYPUKjiyi/1.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Sapphire"
+        },
+        {
+            "trait_type": "Shoe Color",
+            "value": "Rosewood"
+        },
+        {
+            "trait_type": "Leg Color",
+            "value": "Bone"
+        },
+        {
+            "trait_type": "Body Color",
+            "value": "Antique Brass"
+        },
+        {
+            "trait_type": "Keg Color",
+            "value": "Rose Taupe"
+        },
+        {
+            "trait_type": "Keg Line Color",
+            "value": "Blue Sapphire"
+        },
+        {
+            "trait_type": "Glove Color",
+            "value": "Rufous"
+        },
+        {
+            "trait_type": "Nose Color",
+            "value": "Harlequin"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Orange (Web Color)"
+        },
+        {
+            "trait_type": "Spout Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "RightHand",
+            "value": "No Item"
+        },
+        {
+            "trait_type": "LeftHand",
+            "value": "No Item"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Normal Eye"
+        }
+    ]
+}

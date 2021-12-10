@@ -7,7 +7,7 @@ import json
 import argparse
 from copy import deepcopy
 
-IPFS_URL = 'ipfs://QmdfDmrWZb5UM7obpnsJeDDuHoAzoR7n5SCZk6fAKX5hfD' #CID to folder with keggy images
+IPFS_URL = 'ipfs://QmeugimuVwWUTyKuqfeFs1sjzHxMQwXqZjYBCXYPUKjiyi' #CID to folder with keggy images
 BASE_NAME = "Keggy #" #keggy image names
 
 BASE_JSON = { #base metadata format as directed by opensea
