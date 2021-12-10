@@ -1,0 +1,59 @@
+{
+    "name": "Keggy #4",
+    "description": "A normal Keggy performing his daily duties",
+    "image": "ipfs://QmdfDmrWZb5UM7obpnsJeDDuHoAzoR7n5SCZk6fAKX5hfD/4.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Kelly Green"
+        },
+        {
+            "trait_type": "Shoe Color",
+            "value": "Magenta (Dye)"
+        },
+        {
+            "trait_type": "Leg Color",
+            "value": "Deep Carmine"
+        },
+        {
+            "trait_type": "Body Color",
+            "value": "Ocean Boat Blue"
+        },
+        {
+            "trait_type": "Keg Color",
+            "value": "Vivid Tangerine"
+        },
+        {
+            "trait_type": "Keg Line Color",
+            "value": "Straw"
+        },
+        {
+            "trait_type": "Glove Color",
+            "value": "Light Pink"
+        },
+        {
+            "trait_type": "Nose Color",
+            "value": "Dark Taupe"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Sandy Taupe"
+        },
+        {
+            "trait_type": "Spout Color",
+            "value": "Flamingo Pink"
+        },
+        {
+            "trait_type": "RightHand",
+            "value": "Dartmouth Flag"
+        },
+        {
+            "trait_type": "LeftHand",
+            "value": "Keystone"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Normal Eye"
+        }
+    ]
+}
